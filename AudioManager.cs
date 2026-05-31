@@ -1,4 +1,4 @@
-// Xử lý va chạm với Coin, Enemy, Trap, Key, Deadzone.
+// Xử lý va chạm với Coin, Enemy, Trap, Key, Deadzone
 using UnityEngine;
 
 public class AudioManager : MonoBehaviour
