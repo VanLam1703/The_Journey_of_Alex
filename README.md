@@ -1,0 +1,1 @@
+The Journey of Alex is a 2D adventure game developed using Unity and the C# programming language. Players control Alex as he overcomes obstacles, enemies, and various challenges in search of the Golden Key, a precious artifact that holds the only hope of rescuing his family.
